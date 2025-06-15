@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devanshupathak02/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devanshupathak02/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Matrix
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devanshupathak02/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devanshupathak02/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
