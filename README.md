@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
 | [0898-transpose-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
