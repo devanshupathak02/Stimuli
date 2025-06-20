@@ -16,6 +16,7 @@ class Solution {
 	        if(count %2==0){
 	            counter++;
 	        }
+            count=0;
 	        
 	    }
         return counter;
