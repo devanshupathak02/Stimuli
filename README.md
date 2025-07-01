@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/devanshupathak02/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/devanshupathak02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/devanshupathak02/Leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/devanshupathak02/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/devanshupathak02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Leetcode/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/devanshupathak02/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/devanshupathak02/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/devanshupathak02/Leetcode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/devanshupathak02/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/devanshupathak02/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/devanshupathak02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devanshupathak02/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -103,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/devanshupathak02/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/devanshupathak02/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
