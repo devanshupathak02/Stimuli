@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0792-binary-search](https://github.com/devanshupathak02/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/devanshupathak02/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/devanshupathak02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/devanshupathak02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devanshupathak02/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Leetcode/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/devanshupathak02/Leetcode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
