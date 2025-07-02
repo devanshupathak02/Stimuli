@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devanshupathak02/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/devanshupathak02/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/0898-transpose-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/devanshupathak02/Leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
