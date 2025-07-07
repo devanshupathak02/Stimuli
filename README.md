@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1983-maximum-population-year](https://github.com/devanshupathak02/Leetcode/tree/master/1983-maximum-population-year) |
 ## Prefix Sum
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devanshupathak02/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/devanshupathak02/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
 |  |
 | ------- |
