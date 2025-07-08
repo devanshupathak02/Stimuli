@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devanshupathak02/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1983-maximum-population-year](https://github.com/devanshupathak02/Leetcode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devanshupathak02/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshupathak02/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devanshupathak02/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/devanshupathak02/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshupathak02/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Divide and Conquer
 |  |
 | ------- |
