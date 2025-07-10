@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devanshupathak02/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/devanshupathak02/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/devanshupathak02/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/devanshupathak02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devanshupathak02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/devanshupathak02/Leetcode/tree/master/0645-set-mismatch) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/devanshupathak02/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
