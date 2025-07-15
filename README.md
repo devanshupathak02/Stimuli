@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/devanshupathak02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/devanshupathak02/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devanshupathak02/Leetcode/tree/master/0031-next-permutation) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/devanshupathak02/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/devanshupathak02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/devanshupathak02/Leetcode/tree/master/0043-multiply-strings) |
 | [0742-to-lower-case](https://github.com/devanshupathak02/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/devanshupathak02/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devanshupathak02/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
