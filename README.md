@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/devanshupathak02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/devanshupathak02/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/devanshupathak02/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/devanshupathak02/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/devanshupathak02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/devanshupathak02/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/devanshupathak02/Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/devanshupathak02/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devanshupathak02/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
