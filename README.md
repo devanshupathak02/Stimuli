@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/devanshupathak02/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/devanshupathak02/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/devanshupathak02/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/devanshupathak02/Leetcode/tree/master/0066-plus-one) |
