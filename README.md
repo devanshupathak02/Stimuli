@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devanshupathak02/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devanshupathak02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/devanshupathak02/Leetcode/tree/master/0645-set-mismatch) |
+| [0899-binary-gap](https://github.com/devanshupathak02/Leetcode/tree/master/0899-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devanshupathak02/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 |  |
