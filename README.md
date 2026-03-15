@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/devanshupathak02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1651-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/devanshupathak02/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/devanshupathak02/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devanshupathak02/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/devanshupathak02/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/devanshupathak02/Leetcode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/devanshupathak02/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/devanshupathak02/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devanshupathak02/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
