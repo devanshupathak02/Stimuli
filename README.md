@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/devanshupathak02/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshupathak02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1512-number-of-good-pairs](https://github.com/devanshupathak02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/devanshupathak02/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/devanshupathak02/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -89,9 +90,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devanshupathak02/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devanshupathak02/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devanshupathak02/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/devanshupathak02/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/devanshupathak02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1983-maximum-population-year](https://github.com/devanshupathak02/Leetcode/tree/master/1983-maximum-population-year) |
 ## Prefix Sum
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshupathak02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/devanshupathak02/Leetcode/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/devanshupathak02/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
