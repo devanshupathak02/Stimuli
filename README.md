@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/devanshupathak02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devanshupathak02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/devanshupathak02/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1528-shuffle-string) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/devanshupathak02/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/devanshupathak02/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/devanshupathak02/Leetcode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/devanshupathak02/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/devanshupathak02/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1528-shuffle-string) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devanshupathak02/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/devanshupathak02/Leetcode/tree/master/1797-goal-parser-interpretation) |
