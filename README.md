@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devanshupathak02/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devanshupathak02/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/devanshupathak02/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/devanshupathak02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/devanshupathak02/Leetcode/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/devanshupathak02/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/devanshupathak02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1903-largest-odd-number-in-string](https://github.com/devanshupathak02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devanshupathak02/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/devanshupathak02/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1903-largest-odd-number-in-string](https://github.com/devanshupathak02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshupathak02/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Divide and Conquer
 |  |
