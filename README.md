@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/devanshupathak02/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/devanshupathak02/Leetcode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/devanshupathak02/Leetcode/tree/master/0742-to-lower-case) |
+| [0796-rotate-string](https://github.com/devanshupathak02/Leetcode/tree/master/0796-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/devanshupathak02/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1528-shuffle-string) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Leetcode/tree/master/1651-shuffle-string) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshupathak02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/devanshupathak02/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
