@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devanshupathak02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshupathak02/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/devanshupathak02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/devanshupathak02/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/devanshupathak02/Leetcode/tree/master/0455-assign-cookies) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/devanshupathak02/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/devanshupathak02/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/devanshupathak02/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/devanshupathak02/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devanshupathak02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshupathak02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/devanshupathak02/Leetcode/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/devanshupathak02/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
